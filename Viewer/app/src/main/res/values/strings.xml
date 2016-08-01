@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Viewer</string>
+
+    <string name="biography">Биография</string>
+
+    <!--Messages-->
+    <string name="message.loading_finished">Данные извлечены</string>
+    <string name="message.loading_failure">Данные не найдены</string>
+
+    <!--Tools-->
+    <string name="tools.name">Tove Lo</string>
+    <string name="tools.genres">pop, dance, electronics</string>
+    <string name="tools.statistics">8 альбомов, 95 песен</string>
+    <string name="tools.link">http://www.tove-lo.com/</string>
+    <string name="tools.description">Шведская певица и автор песен. Она привлекла к себе внимание в 2013 году с выпуском сингла "Habits", но настоящего успеха добилась с ремиксом хип-хоп продюсера Hippie Sabotage на эту песню, который получил название "Stay High". 4 марта 2014 года вышел её дебютный мини-альбом Truth Serum, а 24 сентября этого же года дебютный студийный альбом Queen of the Clouds. Туве Лу является автором песен таких артистов, как Icona Pop, Girls Aloud и Шер Ллойд.</string>
+
+</resources>

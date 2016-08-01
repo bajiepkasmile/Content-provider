@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Loader</string>
+
+    <!--Messages-->
+    <string name="message.data_saved">Данные сохранены в базу. Теперь их можно просмотреть с помощью Viewer\'а.</string>
+    <string name="message.data_loaded">Данные загружены</string>
+    <string name="message.loading_failure">Ошибка при загрузке данных</string>
+    <string name="message.no_network">Нет сети</string>
+
+</resources>
