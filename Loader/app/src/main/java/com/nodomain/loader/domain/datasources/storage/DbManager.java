@@ -20,6 +20,8 @@ public class DbManager {
     public void saveArtists(ArrayList<Artist> artists) {
         SQLiteDatabase database = dbHelper.getWritableDatabase();
 
+        database.enableWriteAheadLogging();
+
         database.delete(DbConstants.TABLE_ARTISTS, null, null);
         database.delete(DbConstants.TABLE_GENRES, null, null);
 
